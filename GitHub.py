@@ -52,7 +52,7 @@ def create_gauge_bars(languages, title, filename):
 if __name__ == '__main__':
     org_name = 'Kkuing-Team-Project'
     user_name = 'AI-Expert-04'  # GitHub 사용자 이름으로 교체
-    token = 'SHA256:UQT8Bn1hQNkzmT/CvYyg48z0n1Hbs9lZf/h+A/PBJsU='
+    token = ''
 
     programming_languages = [
         'Python', 'Java', 'JavaScript', 'C++', 'C#', 'Ruby', 'Go',
